@@ -1,0 +1,6 @@
+{
+  "name": "Linguist Elite",
+  "description": "A high-end language learning demo featuring voice tracking and immersive earthy aesthetics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
